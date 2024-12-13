@@ -6,8 +6,8 @@
 - <b>SQL Injection (AlgoExpert)</b>
 
 <h2>👨‍💻 CCNA Projects:</h2>
-- <b>VLAN Segmentation & OSPF Routing Protocol (AlgoExpert)</b>
-- <b>BGP Routing Protocol (AlgoExpert)</b>
+- [VLAN Segmentation & OSPF Routing Protocol](https://github.com/hamidjamiulahmadi/VLAN-Segmentation-OSPF-Routing-Protocol/tree/main)>
+- [BGP Routing Protocol]
 - <b>EIGRP Routing Protocol (AlgoExpert)</b>
 
 <h2>👨‍💻 Windows Server Administration Projects</h2>
