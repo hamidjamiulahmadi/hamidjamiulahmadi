@@ -1,25 +1,25 @@
 <h1>Hi, I'm Hamid! </h1>
 
 <h2>👨‍💻 Cyber Security Projects :</h2>
-- <b>bypassing UAC (AlgoExpert)</b>
-- <b>System Penetration (AlgoExpert)</b>
-- <b>SQL Injection (AlgoExpert)</b>
+- <b>bypassing UAC (Comming Soon!)</b>
+- <b>System Penetration (Comming Soon!)</b>
+- <b>SQL Injection (Comming Soon!)</b>
 
 <h2>👨‍💻 CCNA Projects:</h2>
 - [VLAN Segmentation & OSPF Routing Protocol] (https://github.com/hamidjamiulahmadi/VLAN-Segmentation-OSPF-Routing-Protocol)
-- [BGP Routing Protocol]
-- <b>EIGRP Routing Protocol (AlgoExpert)</b>
+-  <b>[BGP Routing Protocol](Comming Soon!)</b>
+- <b>EIGRP Routing Protocol (Comming Soon!)</b>
 
 <h2>👨‍💻 Windows Server Administration Projects</h2>
-- <b>Active Directory configuration (AlgoExpert)</b>
-- <b>DNS configuration (AlgoExpert)</b>
-- <b>DHCP configuration (AlgoExpert)</b>
-- <b>Microsoft Exchange configuration (AlgoExpert)</b>
-- <b>Azur Cloud configuration (AlgoExpert)</b>
+- <b>Active Directory configuration (Comming Soon!)</b>
+- <b>DNS configuration (Comming Soon!)</b>
+- <b>DHCP configuration (Comming Soon!)</b>
+- <b>Microsoft Exchange configuration (Comming Soon!)</b>
+- <b>Azur Cloud configuration (Comming Soon!)</b>
 
 <h2>👨‍💻 Firewall Projects :</h2>
-- <b>Palo Alto firewall configuration (AlgoExpert)</b>
-- <b>Fortinet firewall configuration (AlgoExpert)</b>
+- <b>Palo Alto firewall configuration (Comming Soon!)</b>
+- <b>Fortinet firewall configuration (Comming Soon!)</b>
 
 
 
