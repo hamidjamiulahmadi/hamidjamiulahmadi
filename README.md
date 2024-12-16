@@ -1,7 +1,7 @@
 <h1>Hi, I'm Hamid! </h1>
 
-<h2>👨‍💻 Cyber Security Projects :</h2>
-- <b>Mimikatz for stealing credentials & escalate privileges</b>
+<h2>👨‍💻 Cyber Security Projects (Educational purpose!!!):</h2>
+- <b>Mimikatz for stealing credentials & escalate privileges https://github.com/hamidjamiulahmadi/Mimikatz-for-stealing-credentials-escalate-privileges/tree/main</b>
 - <b>System Penetration (Comming Soon!)</b>
 - <b>SQL Injection (Comming Soon!)</b>
 
