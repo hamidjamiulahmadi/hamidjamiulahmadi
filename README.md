@@ -1,7 +1,7 @@
 <h1>Hi, I'm Hamid! </h1>
 
 <h2>👨‍💻 Cyber Security Projects :</h2>
-- <b>Escalating the privileges to gather the Hushdump using Mimikatz</b>
+- <b>Mimikatz for stealing credentials & escalate privileges</b>
 - <b>System Penetration (Comming Soon!)</b>
 - <b>SQL Injection (Comming Soon!)</b>
 
