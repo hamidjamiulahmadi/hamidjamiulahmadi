@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects (Educational purpose !!!):</h2>
 - <b>Mimikatz for stealing credentials & escalate privileges https://github.com/hamidjamiulahmadi/Mimikatz-for-stealing-credentials-escalate-privileges/tree/main</b>
-- <b>System Penetration (Comming Soon!)</b>
+- <b>Windows 11 User Login Startup Injection for Persistent Connection </b>
 - <b>SQL Injection (Comming Soon!)</b>
 
 <h2>👨‍💻 CCNA Projects:</h2>
