@@ -1,6 +1,5 @@
 <h1>Hi, I'm Hamid! </h1>
-<h2>👨‍💻 Cyber Security Projects (Educational purpose !!!):</h2>
-- <br />Mimikatz for stealing credentials & escalate privileges https://github.com/hamidjamiulahmadi/Mimikatz-for-stealing-credentials-escalate-privileges/tree/main<br />
+<h2>👨‍💻 Cyber Security Projects (Educational purpose !!!):</h2> <br />Mimikatz for stealing credentials & escalate privileges https://github.com/hamidjamiulahmadi/Mimikatz-for-stealing-credentials-escalate-privileges/tree/main<br />
 - <br />Windows 11 User Login Startup Injection for Persistent Connection https://github.com/hamidjamiulahmadi/Windows-11-User-Login-Startup-Injection-for-Persistent-Connection/blob/main/README.md<br />
 - <br />SQL Injection (Comming Soon!)<br />
 
