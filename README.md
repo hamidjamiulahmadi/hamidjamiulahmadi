@@ -5,7 +5,7 @@
 - <br />SQL Injection (Comming Soon!)<br />
 
 <h2>👨‍💻 CCNA Projects:</h2>
-- <br />[VLAN Segmentation & OSPF Routing Protocol] (https://github.com/hamidjamiulahmadi/VLAN-Segmentation-OSPF-Routing-Protocol)<br />
+- <b>[VLAN Segmentation & OSPF Routing Protocol] (https://github.com/hamidjamiulahmadi/VLAN-Segmentation-OSPF-Routing-Protocol)<b>
 -  <b>[BGP Routing Protocol](Comming Soon!)</b>
 - <b>EIGRP Routing Protocol (Comming Soon!)</b>
 
