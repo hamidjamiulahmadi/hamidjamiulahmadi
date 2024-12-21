@@ -1,10 +1,11 @@
 <h1>Hi, I'm Hamid! </h1>
-<h2>👨‍💻 Cyber Security Projects (Educational purpose !!!):</h2> <br />Mimikatz for stealing credentials & escalate privileges https://github.com/hamidjamiulahmadi/Mimikatz-for-stealing-credentials-escalate-privileges/tree/main<br />
+<h2>👨‍💻 Cyber Security Projects (Educational purpose !!!):</h2> 
+- <br />Mimikatz for stealing credentials & escalate privileges https://github.com/hamidjamiulahmadi/Mimikatz-for-stealing-credentials-escalate-privileges/tree/main<br />
 - <br />Windows 11 User Login Startup Injection for Persistent Connection https://github.com/hamidjamiulahmadi/Windows-11-User-Login-Startup-Injection-for-Persistent-Connection/blob/main/README.md<br />
 - <br />SQL Injection (Comming Soon!)<br />
 
 <h2>👨‍💻 CCNA Projects:</h2>
-- [VLAN Segmentation & OSPF Routing Protocol] (https://github.com/hamidjamiulahmadi/VLAN-Segmentation-OSPF-Routing-Protocol)
+- <br />[VLAN Segmentation & OSPF Routing Protocol] (https://github.com/hamidjamiulahmadi/VLAN-Segmentation-OSPF-Routing-Protocol)<br />
 -  <b>[BGP Routing Protocol](Comming Soon!)</b>
 - <b>EIGRP Routing Protocol (Comming Soon!)</b>
 
