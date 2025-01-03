@@ -5,7 +5,7 @@
 - <b>Exploiting Active Directory https://github.com/hamidjamiulahmadi/Exploiting-Active-Directory-/blob/main/README.md<br />
 
 <h2>👨‍💻 Network Administration Projects:</h2>
-- <b>[VLAN Segmentation & OSPF Routing Protocol] (https://github.com/hamidjamiulahmadi/VLAN-Segmentation-OSPF-Routing-Protocol)<br />
+- <b>VLAN Segmentation & OSPF Routing Protocol (https://github.com/hamidjamiulahmadi/VLAN-Segmentation-OSPF-Routing-Protocol)<br />
 - <b>EIGRP Routing Protocol (Comming Soon!)</b>
 -  <b>[BGP Routing Protocol](Comming Soon!)</b>
 
