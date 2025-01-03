@@ -4,10 +4,10 @@
 <b> Windows 11 Login Startup Injection https://github.com/hamidjamiulahmadi/Windows-11-User-Login-Startup-Injection-for-Persistent-Connection/blob/main/README.md <br />
 - <b>Exploiting Active Directory https://github.com/hamidjamiulahmadi/Exploiting-Active-Directory-/blob/main/README.md<br />
 
-<h2>👨‍💻 CCNA Projects:</h2>
+<h2>👨‍💻 Network Administration Projects:</h2>
 - <b>[VLAN Segmentation & OSPF Routing Protocol] (https://github.com/hamidjamiulahmadi/VLAN-Segmentation-OSPF-Routing-Protocol)<br />
--  <b>[BGP Routing Protocol](Comming Soon!)</b>
 - <b>EIGRP Routing Protocol (Comming Soon!)</b>
+-  <b>[BGP Routing Protocol](Comming Soon!)</b>
 
 <h2>👨‍💻 Windows Server Administration Projects</h2>
 - <b>Active Directory configuration (Comming Soon!)</b>
