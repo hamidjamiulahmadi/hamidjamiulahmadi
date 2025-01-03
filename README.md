@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Network Administration Projects:</h2>
 - <b>VLAN Segmentation & OSPF Routing Protocol (https://github.com/hamidjamiulahmadi/VLAN-Segmentation-OSPF-Routing-Protocol)<br />
-- <b>EIGRP Routing Protocol (Comming Soon!)</b>
+- <b>EIGRP Routing Protocol (https://github.com/hamidjamiulahmadi/EIGRP-Routing-Protocol/blob/main/README.md)</b>
 -  <b>[BGP Routing Protocol](Comming Soon!)</b>
 
 <h2>👨‍💻 Windows Server Administration Projects</h2>
