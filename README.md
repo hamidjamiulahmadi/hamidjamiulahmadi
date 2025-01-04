@@ -9,7 +9,7 @@
 - <b>EIGRP Routing Protocol (https://github.com/hamidjamiulahmadi/EIGRP-Routing-Protocol/blob/main/README.md)</b>
 -  <b>[BGP Routing Protocol](Comming Soon!)</b>
 
-<h2>👨‍💻 Windows Server Administration Projects</h2>
+<h2>👨‍💻 IT Administration Projects</h2>
 - <b>Active Directory configuration (Comming Soon!)</b>
 - <b>DNS configuration (Comming Soon!)</b>
 - <b>DHCP configuration (Comming Soon!)</b>
