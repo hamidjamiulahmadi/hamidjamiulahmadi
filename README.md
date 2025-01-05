@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cyber Security Projects (Educational purpose !!!):</h2> 
 <b> Mimikatz for stealing credentials https://github.com/hamidjamiulahmadi/Mimikatz-for-stealing-credentials-escalate-privileges/tree/main <br />
 <b> Windows 11 Login Startup Injection https://github.com/hamidjamiulahmadi/Windows-11-User-Login-Startup-Injection-for-Persistent-Connection/blob/main/README.md <br />
-- <b>Exploiting Active Directory https://github.com/hamidjamiulahmadi/Exploiting-Active-Directory-/blob/main/README.md<br />
+<b>Exploiting Active Directory https://github.com/hamidjamiulahmadi/Exploiting-Active-Directory-/blob/main/README.md<br />
 
 <h2>👨‍💻 Network Administration Projects:</h2>
 <b>VLAN Segmentation & OSPF Routing Protocol (https://github.com/hamidjamiulahmadi/VLAN-Segmentation-OSPF-Routing-Protocol)<br />
