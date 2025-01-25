@@ -8,7 +8,8 @@
 <b>VLAN Segmentation & OSPF Routing Protocol (https://github.com/hamidjamiulahmadi/VLAN-Segmentation-OSPF-Routing-Protocol)<br />
 <b>EIGRP Routing Protocol (https://github.com/hamidjamiulahmadi/EIGRP-Routing-Protocol/blob/main/README.md)</b>
 <b>VLANs,OSPF,VPN,NAT,DTP,HSRP(https://github.com/hamidjamiulahmadi/VLANs-OSPF-VPN-NAT-DTP-HSRP/blob/main/README.md)<br />
-<b>[BGP Routing Protocol](Comming Soon!)</b>
+<b>Implementation of Banking Network Infrastructure(commin soon)<br />
+<b>BGP, MPLS, VRF (Comming Soon!)</b>
 
 <h2>👨‍💻 IT Administration Projects</h2>
 - <b>Active Directory configuration (Comming Soon!)</b>
