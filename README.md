@@ -11,7 +11,7 @@
 <b>Implementation of Banking Network Infrastructure(https://github.com/hamidjamiulahmadi/Implementation-of-Banking-Network-Infrastructure)<br />
 <b>BGP, MPLS, VRF (Comming Soon!)</b>
 
-<h2>👨‍💻 IT Administration Projects</h2>
+<h2>👨‍💻 System Administration Projects</h2>
 - <b>Active Directory configuration (Comming Soon!)</b>
 - <b>DNS configuration (Comming Soon!)</b>
 - <b>DHCP configuration (Comming Soon!)</b>
@@ -21,6 +21,7 @@
 <h2>👨‍💻 Firewall Projects </h2>
 - <b>Palo Alto firewall configuration (Comming Soon!)</b>
 - <b>Fortinet firewall configuration (Comming Soon!)</b>
+- <b>Checkpoint firewall configuration (Comming Soon!)</b>
 
 
 
